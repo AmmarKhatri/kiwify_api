@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "mysecretcode",
+    "database": "kiwify",
+    "host": "postgres",
+    "port" : 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "mysecretcode",
+    "database": "kiwify",
+    "host": "postgres",
+    "port" : 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "mysecretcode",
+    "database": "kiwify",
+    "host": "postgres",
+    "port" : 5432,
+    "dialect": "postgres"
+  }
+}
